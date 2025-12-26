@@ -1,2 +1,3 @@
-# echome-privacypolicy
-Privacy Policy for Echo Me App
+# echome
+
+Contact theapplibrary@gmail.com for support requirements
